@@ -1,31 +1,30 @@
 # Jack in the Box
 
-## Design
-
-Please put your sketches or designs for the Jack in the Box.
-
-
-
 ## Laser Cutting
 
-**a. Include a photo of your box here.**
-**b. Include `.stl` files.**
+[Image Here] (https://github.com/sas695/IDD-Fa19-Lab5/blob/master/box.JPG)
 
 
 ## 3D Printing
 
-**a. Include a photo of your printed part here.**
-**b. Include `.stl` or `.svg` files if you made modifications.**
+[Image Here] (https://github.com/sas695/IDD-Fa19-Lab5/blob/master/boxTall%20.svg)
+
+[Image Here] (https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2019Fall/Lab5/motor%20holder%203d%20printing.stl)
 
 ## Electronics
 
 **a. Upload code & a photo of your electronic circuit here.**
 
+[Code Here] (https://github.com/sas695/IDD-Fa19-Lab5/blob/master/Box_Lab5.ino)
+
+[Image Here] (https://github.com/sas695/IDD-Fa19-Lab4/blob/master/IMG_2658.jpg)
 
 
 ## Putting it All Together
 
-[Code Here] (
+[Code Here] (https://github.com/sas695/IDD-Fa19-Lab5/blob/master/Box_Lab5.ino)
 
-[Video Here] (
+[Jack (aka Paladin) file] (https://github.com/sas695/IDD-Fa19-Lab5/blob/master/paladin.svg)
+
+[Video Here] (https://github.com/sas695/IDD-Fa19-Lab5/blob/master/Jack_box.mov)
 
